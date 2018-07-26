@@ -1,6 +1,8 @@
 # README
 
-## Blog Rails
+## Mooc Rails
+
+Projet MOOC Academie
 
 ## Versions
 
